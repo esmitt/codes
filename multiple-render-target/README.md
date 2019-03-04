@@ -1,4 +1,6 @@
-[Multiple Render Targets](https://en.wikipedia.org/wiki/Multiple_Render_Targets) code using C++ and OpenGL. 
+# Multiple Render Targets
+
+This code implements a [Multiple Render Targets](https://en.wikipedia.org/wiki/Multiple_Render_Targets) approach using C++ and OpenGL. 
 
 For this project it is necessary the following:
 * [The Image Debugger](http://www.billbaxter.com/projects/imdebug/) which is a utility to debug images in OpenGL (also Direct3D and OpenCV). The projects requires, in the same Visual Studio file location path, the files **imdebug**{.h, .lib, .dll}, **imdbgdisplay.exe** and **imdebuggl.h**.
